@@ -5,7 +5,8 @@ A responsive website that will display images, descriptions and links to each of
 
 ## Getting Started
 
-To view the website, open the file index.html with your browser.
+To view the website, download a copy of the project to your local machine and open the file index.html
+ with your browser.
 
 ## Built With
 
@@ -13,7 +14,7 @@ To view the website, open the file index.html with your browser.
 
 ## Author
 
-* **Daniele Erbì** - *Initial work* - [daniel-234](https://github.com/daniel-234)
+* **Daniele Erbì** - [daniel-234](https://github.com/daniel-234)
 
 ## License
 
