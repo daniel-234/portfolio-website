@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="360" height="250" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Feed Reader Testing</title>
+  <g id="svg_1"/>
+  <g transform="translate(130,130) scale(0.6000000238418579) " id="svg_2">
+   <text text-anchor="middle" transform="rotate(30 231,56.00000000000002) " fill="rgb(156, 158, 222)" font-family="Impact" font-size="100px" y="56" x="231" id="svg_3">Feed</text>
+   <text text-anchor="middle" transform="rotate(30 107,80) " fill="rgb(99, 121, 57)" font-family="Impact" font-size="100px" y="80" x="107" id="svg_4">Reader</text>
+   <text text-anchor="middle" fill="rgb(206, 109, 189)" font-family="Impact" font-size="100px" y="155" x="-30" id="svg_5">Testing</text>
+   <text text-anchor="middle" fill="rgb(140, 162, 82)" font-family="Impact" font-size="55px" y="-55" x="244" id="svg_6">TDD</text>
+   <text text-anchor="middle" transform="rotate(-60 181.99999999999997,-72.00000000000001) " fill="rgb(206, 219, 156)" font-family="Impact" font-size="55px" y="-72" x="182" id="svg_7">testsuits</text>
+   <text text-anchor="middle" transform="rotate(30 -224,-54.999999999999986) " fill="rgb(99, 121, 57)" font-family="Impact" font-size="10px" y="-55" x="-224" id="svg_8"/>
+  </g>
+ </g>
+</svg>

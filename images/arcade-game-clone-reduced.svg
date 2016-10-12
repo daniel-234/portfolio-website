@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="360" height="250" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Arcade Game Clone</title>
+  <g id="svg_1"/>
+  <g id="svg_2" transform="translate(170,150) scale(0.5) ">
+   <text id="svg_3" x="281" y="-179" font-size="55px" font-family="Impact" fill="rgb(123, 65, 115)" transform="rotate(-60 281.00000000000006,-178.99999999999997) " text-anchor="middle">Javascript</text>
+   <text id="svg_4" x="-3" y="-34" font-size="100px" font-family="Impact" fill="rgb(214, 97, 107)" transform="rotate(30 -3.0000000000000275,-33.99999999999999) " text-anchor="middle">Arcade</text>
+   <text id="svg_5" x="-222" y="-32" font-size="100px" font-family="Impact" fill="rgb(231, 150, 156)" text-anchor="middle">Game</text>
+   <text id="svg_6" x="-77" y="53" font-size="100px" font-family="Impact" fill="rgb(123, 65, 115)" text-anchor="middle">Clone</text>
+   <text id="svg_7" x="151" y="-26" font-size="100px" font-family="Impact" fill="rgb(165, 81, 148)" transform="rotate(60 151,-26.000000000000007) " text-anchor="middle">Classic</text>
+   <text id="svg_8" x="-7" y="-190" font-size="55px" font-family="Impact" fill="rgb(206, 109, 189)" text-anchor="middle">ObjectOriented</text>
+   <text id="svg_9" x="250" y="-71" font-size="10px" font-family="Impact" fill="rgb(222, 158, 214)" text-anchor="middle">prototypal</text>
+   <text id="svg_10" x="-103" y="122" font-size="10px" font-family="Impact" fill="rgb(57, 59, 121)" text-anchor="middle">closures</text>
+   <text id="svg_11" x="-6" y="-18" font-size="10px" font-family="Impact" fill="rgb(107, 110, 207)" text-anchor="middle">chain</text>
+   <text id="svg_12" x="-69" y="136" font-size="55px" font-family="Impact" fill="rgb(156, 158, 222)" transform="rotate(60 -69.00000000000001,136.00000000000003) " text-anchor="middle">HTML5</text>
+   <text id="svg_13" x="-223" y="-9" font-size="10px" font-family="Impact" fill="rgb(99, 121, 57)" transform="rotate(30 -223.00000000000003,-8.999999999999995) " text-anchor="middle">subclasses</text>
+   <text id="svg_14" x="70" y="146" font-size="10px" font-family="Impact" fill="rgb(140, 162, 82)" transform="rotate(30 70.00000000000006,146) " text-anchor="middle">superclasses</text>
+   <text id="svg_15" x="44" y="66" font-size="10px" font-family="Impact" fill="rgb(132, 60, 57)" transform="rotate(60 43.99999999999999,66) " text-anchor="middle">canvas</text>
+   <text id="svg_16" x="-45" y="-45" font-size="10px" font-family="Impact" fill="rgb(99, 121, 57)" transform="rotate(30 -45.000000000000014,-45) " text-anchor="middle"/>
+  </g>
+ </g>
+</svg>

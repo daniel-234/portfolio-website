@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="360" height="250" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Neighborhood Map</title>
+  <g id="svg_1"/>
+  <g transform="translate(200,140) scale(0.5) " id="svg_2">
+   <text text-anchor="middle" transform="rotate(30 131.99999999999997,-77) " fill="rgb(99, 121, 57)" font-family="Impact" font-size="10px" y="-77" x="132" id="svg_3"/>
+   <text text-anchor="middle" transform="rotate(60 18.999999999999975,123.00000000000001) " fill="rgb(214, 97, 107)" font-family="Impact" font-size="100px" y="123" x="19" id="svg_4">Map</text>
+   <text text-anchor="middle" transform="rotate(60 -62.000000000000014,-77) " fill="rgb(165, 81, 148)" font-family="Impact" font-size="55px" y="-77" x="-62" id="svg_5">AJAX</text>
+   <text text-anchor="middle" transform="rotate(60 94.00000000000001,84.99999999999999) " fill="rgb(165, 81, 148)" font-family="Impact" font-size="55px" y="85" x="94" id="svg_6">API</text>
+   <text text-anchor="middle" transform="rotate(-60 -105,-108) " fill="rgb(231, 186, 82)" font-family="Impact" font-size="55px" y="-108" x="-105" id="svg_7">Design</text>
+   <text text-anchor="middle" transform="rotate(60 -44.00000000000001,-153) " fill="rgb(206, 109, 189)" font-family="Impact" font-size="55px" y="-153" x="-44" id="svg_8">Patterns</text>
+   <text text-anchor="middle" transform="rotate(-30 -151.00000000000003,17.999999999999993) " fill="rgb(123, 65, 115)" font-family="Impact" font-size="55px" y="18" x="-151" id="svg_9">JavaScript</text>
+   <text text-anchor="middle" transform="rotate(-30 -31.000000000000018,46.99999999999999) " fill="rgb(222, 158, 214)" font-family="Impact" font-size="100px" y="47" x="-31" id="svg_10">Neighborhood</text>
+  </g>
+ </g>
+</svg>

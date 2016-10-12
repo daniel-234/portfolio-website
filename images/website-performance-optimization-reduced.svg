@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg width="360" height="250" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Website performance optimization</title>
+  <g id="svg_1"/>
+  <g transform="translate(170,142) scale(0.47999998927116394) " id="svg_2">
+   <text text-anchor="middle" transform="rotate(-30 -3.9999999999999303,-145.99999999999997) " fill="rgb(99, 121, 57)" font-family="Impact" font-size="10px" y="-146" x="-4" id="svg_3"/>
+   <text text-anchor="middle" transform="rotate(-60 -193,53) " fill="rgb(206, 219, 156)" font-family="Impact" font-size="100px" y="53" x="-193" id="svg_4">Website</text>
+   <text text-anchor="middle" transform="rotate(60 171.00000000000003,-143.00000000000003) " fill="rgb(189, 158, 57)" font-family="Impact" font-size="55px" y="-143" x="171" id="svg_5">CRP</text>
+   <text text-anchor="middle" transform="rotate(30 59.000000000000036,73.99999999999999) " fill="rgb(214, 97, 107)" font-family="Impact" font-size="55px" y="74" x="59" id="svg_6">rendering</text>
+   <text text-anchor="middle" transform="rotate(-60 -26.000000000000007,-42) " fill="rgb(231, 203, 148)" font-family="Impact" font-size="10px" y="-42" x="-26" id="svg_7">critical</text>
+   <text text-anchor="middle" transform="rotate(30 -9.000000000000055,-70.99999999999999) " fill="rgb(132, 60, 57)" font-family="Impact" font-size="10px" y="-71" x="-9" id="svg_8">path</text>
+   <text text-anchor="middle" transform="rotate(-60 -190.99999999999997,-143) " fill="rgb(173, 73, 74)" font-family="Impact" font-size="10px" y="-143" x="-191" id="svg_9">browser</text>
+   <text text-anchor="middle" fill="rgb(181, 207, 107)" font-family="Impact" font-size="10px" y="-147" x="144" id="svg_10">layout</text>
+   <text text-anchor="middle" transform="rotate(-60 -53,-20) " fill="rgb(231, 186, 82)" font-family="Impact" font-size="100px" y="-20" x="-53" id="svg_11">Performance</text>
+   <text text-anchor="middle" fill="rgb(140, 109, 49)" font-family="Impact" font-size="100px" y="200" x="121" id="svg_12">Optimization</text>
+  </g>
+ </g>
+</svg>
