@@ -8,16 +8,17 @@
 		<script src="js/jquery-3.1.0.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/main.css">
 	</head>
 	<body>
 		<div class="container">
 			<header class="row">
-				<div class="col-md-6">
-					<img src="images/logo.svg" alt="Logo">
-				</div>
-				<div class="col-md-6 text-right text-uppercase">
+				<div class="col-xs-12 col-md-6 col-md-push-6 text-right text-uppercase">
 					<h1>Daniele Erbì</h1>
 					<h4>Front-End Engineer</h4>
+				</div>
+				<div class="col-xs-12 col-md-6 col-md-pull-6">
+					<img src="images/logo.svg" alt="Logo">
 				</div>
 			</header>
 			<div class="row">
@@ -40,37 +41,37 @@
 					<hr>
 				</div>
 			</div>
-			<section class="row">
-				<article class="col-md-4">
+			<!-- Add custom id="projects" and class="col-xxs-12" to override Bootstrap grid system for portrait phones and smaller devices -->
+			<section id="projects" class="row">
+				<!-- Stack projects on 1 column for portrait phones, on 2 columns for phablets and tablets and on 3 columns for bigger devices -->
+				<article class="col-xxs-12 col-xs-6 col-md-4">
 					<figure>
 						<img class="img-responsive" src="images/online-resume.svg" alt="First Project: Online Resume wordcloud">
 					</figure>
 					<h3 class="text-uppercase">Online Resume</h3>
 					<p>https://#</p>
 				</article>
-				<article class="col-md-4">
-					<img class="img-responsive" src="images/arcade-game-clone.svg" alt="Second Project: Arcade Game Clone wordcloud">
+				<article class="col-xxs-12 col-xs-6 col-md-4">
+					<img class="img-responsive" src="images/arcade-game-clone.svg" alt="Second Project: Arcade Game Clone wordcloud" border="5">
 					<h3 class="text-uppercase">Arcade Game Clone</h3>
 					<p>https://#</p>
 				</article>
-				<article class="col-md-4">
+				<article class="col-xxs-12 col-xs-6 col-md-4">
 					<img class="img-responsive" src="images/website-performance-optimization.svg" alt="Third Project: Website Performance Optimization wordcloud">
 					<h3 class="text-uppercase">Website Optimization</h3>
 					<p>https://#</p>
 				</article>
-			</section>
-			<section class="row">
-				<article class="col-md-4">
+				<article class="col-xxs-12 col-xs-6 col-md-4">
 					<img class="img-responsive" src="images/neighborhood-map.svg" alt="Fourth Project: Neighborhood Map wordcloud">
 					<h3 class="text-uppercase">Neighborhood Map</h3>
 					<p>https://#</p>
 				</article>
-				<article class="col-md-4">
+				<article class="col-xxs-12 col-xs-6 col-md-4">
 					<img class="img-responsive" src="images/health-tracker.svg" alt="Fifth Project: Health Tracker wordcloud">
 					<h3 class="text-uppercase">Health Tracker</h3>
 					<p>https://#</p>
 				</article>
-				<article class="col-md-4">
+				<article class="col-xxs-12 col-xs-6 col-md-4">
 					<img class="img-responsive" src="images/feed-reader-testing.svg" alt="Sixth Project: Feed Reader Testing wordcloud">
 					<h3 class="text-uppercase">Feed Reader Testing</h3>
 					<p>https://#</p>

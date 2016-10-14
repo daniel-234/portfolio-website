@@ -1,0 +1,6 @@
+/* Portrait phones and smaller */
+@media (max-width: 415px) {
+	#projects .col-xxs-12 {
+		width: 100%;
+	}
+}
