@@ -28,7 +28,12 @@
 			</div>
 			<div class="row">
 				<figure class="col-md-12">
-					<img class="img-responsive" src="images/main.png" alt="main image">
+					<picture>
+						<!-- Use media queries to deliver fully responsive images -->
+						<source media="(min-width: 992px)" srcset="images/main-large.png">
+						<source media="(min-width: 550px)" srcset="images/main-medium.png">
+						<img class="img-responsive" src="images/main.png" alt="main image">
+					</picture>
 				</figure>
 			</div>
 			<div class="row">
@@ -54,31 +59,41 @@
 					</h3>
 				</article>
 				<article class="col-xs-6 col-md-4 center-elem-section">
-					<img class="img-responsive center-block img-section" src="images/arcade-game-clone.svg" alt="Second Project: Arcade Game Clone wordcloud">
+					<figure>
+						<img class="img-responsive center-block img-section" src="images/arcade-game-clone.svg" alt="Second Project: Arcade Game Clone wordcloud">
+					</figure>
 					<h3 class="text-uppercase">
 						<a href="#">Arcade Game Clone</a>
 					</h3>
 				</article>
 				<article class="col-xs-6 col-md-4 center-elem-section">
-					<img class="img-responsive center-block img-section" src="images/website-performance-optimization.svg" alt="Third Project: Website Performance Optimization wordcloud">
+					<figure>
+						<img class="img-responsive center-block img-section" src="images/website-performance-optimization.svg" alt="Third Project: Website Performance Optimization wordcloud">
+					</figure>
 					<h3 class="text-uppercase">
 						<a href="#">Website Optimization</a>
 					</h3>
 				</article>
 				<article class="col-xs-6 col-md-4 center-elem-section">
-					<img class="img-responsive center-block img-section" src="images/neighborhood-map.svg" alt="Fourth Project: Neighborhood Map wordcloud">
+					<figure>
+						<img class="img-responsive center-block img-section" src="images/neighborhood-map.svg" alt="Fourth Project: Neighborhood Map wordcloud">
+					</figure>
 					<h3 class="text-uppercase">
 						<a href="#">Neighborhood Map</a>
 					</h3>
 				</article>
 				<article class="col-xs-6 col-md-4 center-elem-section">
-					<img class="img-responsive center-block img-section" src="images/health-tracker.svg" alt="Fifth Project: Health Tracker wordcloud">
+					<figure>
+						<img class="img-responsive center-block img-section" src="images/health-tracker.svg" alt="Fifth Project: Health Tracker wordcloud">
+					</figure>
 					<h3 class="text-uppercase">
 						<a href="#">Health Tracker</a>
 					</h3>
 				</article>
 				<article class="col-xs-6 col-md-4 center-elem-section">
-					<img class="img-responsive center-block img-section" src="images/feed-reader-testing.svg" alt="Sixth Project: Feed Reader Testing wordcloud">
+					<figure>
+						<img class="img-responsive center-block img-section" src="images/feed-reader-testing.svg" alt="Sixth Project: Feed Reader Testing wordcloud">
+					</figure>
 					<h3 class="text-uppercase">
 						<a href="#">Feed Reader Testing</a>
 					</h3>
