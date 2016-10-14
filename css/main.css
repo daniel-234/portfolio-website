@@ -7,6 +7,11 @@
 }
 */
 
+.img-section {
+	border-width: 0.5px;
+	border-style: ridge;
+}
+
 .center-elem-section {
 		text-align: center;
 	}
