@@ -23,3 +23,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * All the wonderful people at Udacity who inspired me for this work - [Udacity](https://www.udacity.com/)
+* Among all the developers who write useful answers on the web to help others, I wanted to thank author
+ Carol Skelly @blog.codeply for pointing me to the right direction on how to use the Bootstrap grid layout
+ for this design - [How the Bootstrap grid really works](http://blog.codeply.com/2016/04/06/how-the-bootstrap-grid-really-works/)

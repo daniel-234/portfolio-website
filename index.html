@@ -13,12 +13,12 @@
 	<body>
 		<div class="container">
 			<header class="row">
-				<div class="col-xs-12 col-md-6 col-md-push-6 text-right text-uppercase">
+				<div class="col-sm-6 col-sm-push-6 text-right text-uppercase center-elem-header">
 					<h1>Daniele Erbì</h1>
 					<h4>Front-End Engineer</h4>
 				</div>
-				<div class="col-xs-12 col-md-6 col-md-pull-6">
-					<img src="images/logo.svg" alt="Logo">
+				<div class="col-sm-6 col-sm-pull-6 center-elem-header">
+					<img class="a" src="images/logo.svg" alt="Logo">
 				</div>
 			</header>
 			<div class="row">
@@ -32,7 +32,7 @@
 				</figure>
 			</div>
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 center-elem-featured">
 					<h2>Featured Work</h2>
 				</div>
 			</div>
@@ -41,38 +41,39 @@
 					<hr>
 				</div>
 			</div>
-			<!-- Add custom id="projects" and class="col-xxs-12" to override Bootstrap grid system for portrait phones and smaller devices -->
-			<section id="projects" class="row">
-				<!-- Stack projects on 1 column for portrait phones, on 2 columns for phablets and tablets and on 3 columns for bigger devices -->
-				<article class="col-xxs-12 col-xs-6 col-md-4">
+			<!-- Projects section -->
+			<section class="row">
+				<!-- Make use of Bootstrap column wrapping technique to accomodate a 3 column layout on larger devices and a 2 column
+				     layout on smaller devices. -->
+				<article class="col-xs-6 col-md-4 center-elem-section">
 					<figure>
-						<img class="img-responsive" src="images/online-resume.svg" alt="First Project: Online Resume wordcloud">
+						<img class="img-responsive center-block" src="images/online-resume.svg" alt="First Project: Online Resume wordcloud">
 					</figure>
 					<h3 class="text-uppercase">Online Resume</h3>
 					<p>https://#</p>
 				</article>
-				<article class="col-xxs-12 col-xs-6 col-md-4">
-					<img class="img-responsive" src="images/arcade-game-clone.svg" alt="Second Project: Arcade Game Clone wordcloud" border="5">
+				<article class="col-xs-6 col-md-4 center-elem-section">
+					<img class="img-responsive center-block" src="images/arcade-game-clone.svg" alt="Second Project: Arcade Game Clone wordcloud" border="5">
 					<h3 class="text-uppercase">Arcade Game Clone</h3>
 					<p>https://#</p>
 				</article>
-				<article class="col-xxs-12 col-xs-6 col-md-4">
-					<img class="img-responsive" src="images/website-performance-optimization.svg" alt="Third Project: Website Performance Optimization wordcloud">
+				<article class="col-xs-6 col-md-4 center-elem-section">
+					<img class="img-responsive center-block" src="images/website-performance-optimization.svg" alt="Third Project: Website Performance Optimization wordcloud">
 					<h3 class="text-uppercase">Website Optimization</h3>
 					<p>https://#</p>
 				</article>
-				<article class="col-xxs-12 col-xs-6 col-md-4">
-					<img class="img-responsive" src="images/neighborhood-map.svg" alt="Fourth Project: Neighborhood Map wordcloud">
+				<article class="col-xs-6 col-md-4 center-elem-section">
+					<img class="img-responsive center-block" src="images/neighborhood-map.svg" alt="Fourth Project: Neighborhood Map wordcloud">
 					<h3 class="text-uppercase">Neighborhood Map</h3>
 					<p>https://#</p>
 				</article>
-				<article class="col-xxs-12 col-xs-6 col-md-4">
-					<img class="img-responsive" src="images/health-tracker.svg" alt="Fifth Project: Health Tracker wordcloud">
+				<article class="col-xs-6 col-md-4 center-elem-section">
+					<img class="img-responsive center-block" src="images/health-tracker.svg" alt="Fifth Project: Health Tracker wordcloud">
 					<h3 class="text-uppercase">Health Tracker</h3>
 					<p>https://#</p>
 				</article>
-				<article class="col-xxs-12 col-xs-6 col-md-4">
-					<img class="img-responsive" src="images/feed-reader-testing.svg" alt="Sixth Project: Feed Reader Testing wordcloud">
+				<article class="col-xs-6 col-md-4 center-elem-section">
+					<img class="img-responsive center-block" src="images/feed-reader-testing.svg" alt="Sixth Project: Feed Reader Testing wordcloud">
 					<h3 class="text-uppercase">Feed Reader Testing</h3>
 					<p>https://#</p>
 				</article>
