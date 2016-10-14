@@ -11,16 +11,10 @@ To view the website, download a copy of the project to your local machine and op
 ## Built With
 
 * [Bootstrap](http://getbootstrap.com/) - The web framework used
-* [Grunt](http://gruntjs.com/) - The tasks automation tool used
 
 ## Author
 
 * **Daniele Erbì** - [daniel-234](https://github.com/daniel-234)
-
-## Notes
-
-The original main image is in 'images_src folder'. Being only 9KB, it could have been easily used in production. I preferred to
-make practice using 'grunt' to automate the process of resizing that image to adapt its size to different viewports.
 
 ## License
 
