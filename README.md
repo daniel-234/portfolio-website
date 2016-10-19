@@ -12,6 +12,8 @@ To view the website, download a copy of the project to your local machine and op
 
 * [Bootstrap](http://getbootstrap.com/) - The web framework used
 * [Grunt](http://gruntjs.com/) - The tasks automation tool used
+* [Word Cloud Generator - Jason Davies] (https://www.jasondavies.com/wordcloud/) - The tool for my word cloud images
+* [SVG-edit] (https://github.com/SVG-Edit/svgedit) - A SVG editor for my svg images
 
 ## Author
 
@@ -32,3 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Among all the developers who write useful answers on the web to help others, I wanted to thank author
  Carol Skelly @blog.codeply for pointing me to the right direction on how to use the Bootstrap grid layout
  for this design - [How the Bootstrap grid really works](http://blog.codeply.com/2016/04/06/how-the-bootstrap-grid-really-works/)
+* [CSS-Tricks] (https://css-tricks.com/examples/hrs/) - Simple Styles for <hr>'s
