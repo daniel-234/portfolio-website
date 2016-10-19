@@ -383,25 +383,8 @@
   },
   "css": [
     "type.less",
-    "grid.less",
-    "forms.less",
-    "navs.less",
-    "navbar.less",
-    "modals.less"
+    "grid.less"
   ],
-  "js": [
-    "alert.js",
-    "button.js",
-    "carousel.js",
-    "dropdown.js",
-    "modal.js",
-    "tooltip.js",
-    "popover.js",
-    "tab.js",
-    "affix.js",
-    "collapse.js",
-    "scrollspy.js",
-    "transition.js"
-  ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=b0c8af0fa39a23e0e9996f672edaa08c"
+  "js": [],
+  "customizerUrl": "http://getbootstrap.com/customize/?id=3e8140593bb4a041265f59adc126a8eb"
 }
